@@ -16,21 +16,21 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "INMD의 사소한 알고리즘 사이트"
+title                    : "INMD의 사소한 사이트"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "INMD"
-description              : "ascode, Lavida등 문제 푼 것들을 올리는곳"
+description              : "Ascode, Lavida 등 알고리즘 푼 문제 코드를 공유합니다."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : #"INMD1/blog-site" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "INMD1/Algorithm-web-view" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider: #"utterances"
+  provider: "utterances"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -41,8 +41,9 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
   utterances:
-    theme                :  # "github-light" (default), "github-dark"
-    issue_term           :  # "pathname" (default)
+    theme                : "github-light" # "github-light" (default), "github-dark"
+    issue_term           : "pathname"  # "pathname" (default)
+    label: "comment" 
   staticman:
     branch               : # "master"
     endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
