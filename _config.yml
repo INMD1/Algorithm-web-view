@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "INMD의 사소한 사이트"
+title                    : "INMD의 사소한 알고리즘 사이트"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "INMD"
@@ -43,7 +43,6 @@ comments:
   utterances:
     theme                : "github-light" # "github-light" (default), "github-dark"
     issue_term           : "pathname"  # "pathname" (default)
-    label: "comment" 
   staticman:
     branch               : # "master"
     endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"

@@ -3,5 +3,8 @@ main:
    - title: "about"
      url: /about/
 
+   - title: "ascode"
+     url: /ascode/
+
    - title: "code"
      url: /tags/
