@@ -6,5 +6,8 @@ main:
    - title: "ascode"
      url: categories/ascode/
 
-   - title: "code"
-     url: /tags/
+   - title: "backjon"
+     url: categories/backjon/
+
+   - title: "Lavida"
+     url: categories/Lavida/
