@@ -4,7 +4,7 @@ main:
      url: /about/
 
    - title: "ascode"
-     url: /ascode/
+     url: categories/ascode/
 
    - title: "code"
      url: /tags/
