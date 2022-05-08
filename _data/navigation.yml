@@ -11,3 +11,6 @@ main:
 
    - title: "Lavida"
      url: categories/Lavida/
+
+   - title: "programmers"
+     url: categories/programmers/     
