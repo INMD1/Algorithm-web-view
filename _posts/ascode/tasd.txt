@@ -1,0 +1,25 @@
+---
+title:  "ascode"
+categories:
+  - ascode
+tags:
+  - [Programming, C]
+---
+
+# 문제 설명
+
+# 입력 설명
+
+# 출력 설명
+
+# 입력 예시
+```
+```
+# 출력 예시
+```
+
+```
+#코드
+```c
+
+```
